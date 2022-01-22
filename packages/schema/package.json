@@ -35,6 +35,6 @@
     "fs-extra": "^10.0.0",
     "istanbul": "0.4.5",
     "markdown-toc": "^1",
-    "node-fetch": "^2"
+    "node-fetch": "^3"
   }
 }
