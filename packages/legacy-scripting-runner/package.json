@@ -23,7 +23,7 @@
     "npm": ">=5.6.0"
   },
   "dependencies": {
-    "async": "2.6.1",
+    "async": "2.6.4",
     "deasync": "0.1.21",
     "flat": "4.1.0",
     "jquery": "2.1.4",
